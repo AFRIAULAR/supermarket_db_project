@@ -28,24 +28,21 @@ Directorio que almacena archivos relacionados con la base de datos.
   
   **Relaciones:**
     * **Products <-> Sales: Relación uno a muchos (one-to-many)**
+      ![DER](DATABASE/DER_SM.png)
 
 
 #### screenshots/ 
 Incluye capturas de pantalla relevantes que muestran la interfaz de usuario y las consultas SQL ejecutadas.
 
 ## Uso
-
 - Descarga la base de datos de supermarket_db.sql y guárdala en tu servidor MySQL o en phpMyAdmin. 
 - Descarga el archivo DER.png y guárdala en tu servidor MySQL o en phpMyAdmin.
-- Utiliza `insert_data.sql` para cargar datos de ejemplo en la base de datos, simulando información típica de un supermercado.
-
-#### Queries SQL:
-Los archivos `basic_queries.sql` y `advanced_queries.sql` contienen ejemplos de consultas SQL que puedes ejecutar para obtener información específica de la base de datos.
-
+- Utiliza el script `insert_data.sql` para cargar datos de ejemplo en la base de datos, simulando información típica de un supermercado.
+- Utiliza las queries de los archivos `basic_queries.sql` y `advanced_queries.sql` que contienen ejemplos de consultas SQL que puedes ejecutar para obtener información específica de la base de datos.
 
 ## Contacto
 - Email: [aularafrica@gmail.com](mailto:aularafrica@gmail.com)
 - LinkedIn: [Africa Aular](https://www.linkedin.com/in/africaaular/)
 - GitHub: [AFRIAULAR](https://github.com/AFRIAULAR)
 
-## AfriCode
+## AfriCode{💜}
